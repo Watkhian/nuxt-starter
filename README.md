@@ -49,3 +49,6 @@ Here are a few suggestions on what to do next if you're new to Netlify Visual Ed
 ## Support
 
 If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/af2d1851-1895-411a-ac7c-d33195ad2cae/deploy-status)](https://app.netlify.com/sites/frolicking-rolypoly-5fbf60/deploys)
